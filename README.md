@@ -23,5 +23,5 @@ _Hi. My name's Hiep :sunglasses:. I'm 21. I live in Hanoi._
 
 ---
 <p align="center">
-  <img alt="This is a nnhiep's avatar" src="[http://some_place.com/image.png](https://github.com/nnhiep582k2/nnhiep582k2/blob/main/Screenshot_20191211-121934.png)" />
+  <img alt="This is a nnhiep's avatar" src="https://github.com/nnhiep582k2/nnhiep582k2/blob/main/Screenshot_20191211-121934.png" />
 </p>
