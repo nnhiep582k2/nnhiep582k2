@@ -1,5 +1,5 @@
 # **About me**
-_Hi. My name's Hiep :sunglasses:. I'm 21. I live in Hanoi._
+_Hi. My name's Hiep :sunglasses:. I'm 21. I live in Hanoi. I’m currently working on MISA JSC :office:._
 
 :arrow_forward: This is my Facebook [Nguyễn Ngọc Hiệp](https://www.facebook.com/nnhiep582).
 
