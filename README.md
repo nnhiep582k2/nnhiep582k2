@@ -22,5 +22,7 @@ _Hi. My name's Hiep :sunglasses:. I'm 21. I live in Hanoi._
 - Mark Manson
 
 ---
-![This is a nnhiep's avatar](https://github.com/nnhiep582k2/nnhiep582k2/blob/main/Screenshot_20191211-121934.png)
+<p align="center">
+  ![This is a nnhiep's avatar](https://github.com/nnhiep582k2/nnhiep582k2/blob/main/Screenshot_20191211-121934.png)
+</p>
 ---
