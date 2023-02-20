@@ -1,25 +1,37 @@
-# **About me**
-_Hi. My name's Hiep :sunglasses:. I'm 21. I live in Hanoi. I’m currently working on MISA JSC :office:._
+<p align="center">
+  # **About me**
+</p>
+<p align="center">
+  _Hi. My name's Hiep :sunglasses:. I'm 21. I live in Hanoi. I’m currently working on MISA JSC :office:._
+</p>
 
-:arrow_forward: This is my Facebook [Nguyễn Ngọc Hiệp](https://www.facebook.com/nnhiep582).
+<p align="center">
+  :arrow_forward: This is my Facebook [Nguyễn Ngọc Hiệp](https://www.facebook.com/nnhiep582).
+</p>
 
-:arrow_forward: This is my Youtube [Hiep Nguyen Ngoc](https://www.youtube.com/channel/UC_2Wch1WvPXpeaaDBRpAAcQ).
+<p align="center">
+  :arrow_forward: This is my Youtube [Hiep Nguyen Ngoc](https://www.youtube.com/channel/UC_2Wch1WvPXpeaaDBRpAAcQ).
+</p>
 
-<details>
-<summary>Things I like :heart:</summary>
+<p align="center">
+  <details>
+    <summary>Things I like :heart:</summary>
 
-|  Number  |  Things  |
-|--------:|-----------|
-|        1 |  Travel  |
-|        2 |  Coding  |
-|        3 |  English |
-|        4 |  Books   |
+      |  Number  |  Things  |
+      |--------:|-----------|
+      |        1 |  Travel  |
+      |        2 |  Coding  |
+      |        3 |  English |
+      |        4 |  Books   |
 
-</details>
+  </details>
+</p>
 
 ---
-> Life is like noodles. When we watch TV and see other people eating, we feel delicious. But when we eat it, its taste is nothing special.
-- Mark Manson
+<p align="center">
+  > Life is like noodles. When we watch TV and see other people eating, we feel delicious. But when we eat it, its taste is nothing special.
+  - Mark Manson
+</p>
 
 ---
 <p align="center">
