@@ -1,7 +1,8 @@
 # **About me**
 _Hi. My name's Hiep :sunglasses:. I'm 21. I live in Hanoi._
 
-:arrow_forward: This is my Facebook [Nguyen Ngoc Hiep](https://www.facebook.com/nnhiep582).
+:arrow_forward: This is my Facebook [Nguyễn Ngọc Hiệp](https://www.facebook.com/nnhiep582).
+:arrow_forward: This is my Youtube [Hiep Nguyen Ngoc](https://www.youtube.com/channel/UC_2Wch1WvPXpeaaDBRpAAcQ).
 
 <details>
 <summary>Things I like :heart:</summary>
