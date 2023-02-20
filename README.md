@@ -1,10 +1,10 @@
 # **About me**
-### _Hi. My name's Hiep. I'm 21. I live in Hanoi._
+_Hi. My name's Hiep :sunglasses:. I'm 21. I live in Hanoi._
 
-This is my Facebook [NNHiep](https://www.facebook.com/nnhiep582).
+:arrow_forward: This is my Facebook [Nguyen Ngoc Hiep](https://www.facebook.com/nnhiep582).
 
 <details>
-<summary>Things I like</summary>
+<summary>Things I like :heart:</summary>
 
 |  Number  |  Things  |
 |--------:|-----------|
