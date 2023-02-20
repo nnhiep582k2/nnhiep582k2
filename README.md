@@ -1,6 +1,6 @@
-## About me
+# **About me**
 ---
-Hi. My name's Hiep. I'm 21.
+## _Hi. My name's Hiep. I'm 21._
 ---
 <details>
 <summary>Things I like</summary>
@@ -13,6 +13,8 @@ Hi. My name's Hiep. I'm 21.
 |     4| Books     |
 
 </details>
+---
+This is my Facebook [NNHiep](https://www.facebook.com/nnhiep582).
 ---
 ![This is a nnhiep's avatar](https://github.com/nnhiep582k2/nnhiep582k2/blob/main/Screenshot_20191211-121934.png)
 ---
