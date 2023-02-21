@@ -9,7 +9,7 @@ _Hi. My name's Hiep :sunglasses:. I'm 21. I live in Hanoi. I’m currently worki
   <summary>Things I like :heart:</summary>
 
     |  Number  |  Things  |
-    |---------:|----------|
+    | -------- | -------- |
     |        1 |  Travel  |
     |        2 |  Coding  |
     |        3 |  English |
