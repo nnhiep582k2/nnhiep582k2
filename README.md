@@ -1,5 +1,4 @@
 ## 👋 Hi, My name is Hiep. I am 21. I live in Hanoi.
-
 ##  🤝 Connect with me:
 
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/nnhiep582)
@@ -18,9 +17,3 @@
 <img title="C #" align="left" alt="csharp"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 <img title=".Net Core" align="left" alt="dotnet"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" />
 <img title="Mysql" align="left" alt="mysql"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<br />
-<br />
----
-> Life is like noodles. When we watch TV and see other people eating, we feel delicious. But when we eat it, its taste is nothing special.
-- Mark Manson
----
