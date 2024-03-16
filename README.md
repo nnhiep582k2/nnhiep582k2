@@ -21,6 +21,6 @@
 <br />
 <br />
 ---
-Life is like noodles. When we watch TV and see other people eating, we feel delicious. But when we eat it, its taste is nothing special.
+> Life is like noodles. When we watch TV and see other people eating, we feel delicious. But when we eat it, its taste is nothing special.
 - Mark Manson
 ---
