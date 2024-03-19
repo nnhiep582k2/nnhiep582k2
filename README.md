@@ -1,4 +1,4 @@
-## 👋 Hi, My name is Hiep. I am 21. I live in Hanoi.
+## 👋 Hi, My name is Hiep. I am 21. I live in Hanoi. I am a Fullstack Web Developer.
 ## 🤝 Connect with me:
 
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/nnhiep582)
@@ -24,5 +24,5 @@
 
 <p>
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nnhiep582k2&show_icons=true&theme=radical" />
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nnhiep582k2&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact&langs_count=11&card_width=320" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nnhiep582k2&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact&langs_count=11&card_width=420" />
 </p>
