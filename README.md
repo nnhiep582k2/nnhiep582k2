@@ -17,3 +17,12 @@
 <img title="C #" align="left" alt="csharp"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 <img title=".Net Core" align="left" alt="dotnet"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" />
 <img title="Mysql" align="left" alt="mysql"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+
+<p>
+<a href="https://github.com/nnhiep582k2/nnhiep582k2">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nnhiep582k2&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/nnhiep582k2/nnhiep582k2">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nnhiep582k2&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact&langs_count=11&card_width=320" />
+</a>
+</p>
