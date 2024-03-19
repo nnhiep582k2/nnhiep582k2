@@ -23,10 +23,6 @@
 ## 💻 Other
 
 <p>
-<a href="https://github.com/nnhiep582k2/nnhiep582k2">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nnhiep582k2&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/nnhiep582k2/nnhiep582k2">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nnhiep582k2&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact&langs_count=11&card_width=320" />
-</a>
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nnhiep582k2&show_icons=true&theme=radical" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nnhiep582k2&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact&langs_count=11&card_width=320" />
 </p>
