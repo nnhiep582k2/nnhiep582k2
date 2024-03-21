@@ -31,6 +31,7 @@
 <img align="left" alt="Git" height="32" width="32" src="https://avatars.githubusercontent.com/u/18133?s=280&v=4" />
 <img align="left" alt="GitHub" height="32" width="32" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR27kaHyBN4-iwj7H4pMmnE7kaC720Y-PYzKQ&usqp=CAU" />
 <img align="left" alt="Bitbucket" height="32" width="32" src="https://seeklogo.com/images/B/bitbucket-logo-D072214725-seeklogo.com.png" />
+<img align="left" alt="Jira" height="32" width="32" src="https://images.ctfassets.net/wl95ljfippl8/227taekzJ9UfuM9knHRa7B/29b6f61d6fc9cd1e2c3fdf409dca8b0b/Vector.webp" />
 <img align="left" alt="Markdown" height="32" width="32" src="https://w7.pngwing.com/pngs/87/883/png-transparent-markdown-logos-and-brands-line-filled-icon-thumbnail.png" />
 </div>
 <br />
