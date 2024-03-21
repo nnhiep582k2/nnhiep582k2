@@ -1,8 +1,10 @@
 ### 👋 Hi, I'm `Hiep`
+---
 ### 🤝 Connect with me:
 [<img align="left" alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/nnhiep582)
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nnhiep/)
 [<img align="left" alt="Youtube" src="https://img.shields.io/badge/Youtube-1877F2?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/@nnhiep582)
+<br />
 <br />
 ### 👨‍💻 Languages and Tools
 <img title="HTML5" align="left" alt="HTML5" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -24,6 +26,7 @@
 <br />
 <br />
 <img title="Markdown" align="left" alt="Markdown" height="32" width="32" src="https://w7.pngwing.com/pngs/87/883/png-transparent-markdown-logos-and-brands-line-filled-icon-thumbnail.png" />
+<br />
 <br />
 
 ### 💻 Other
