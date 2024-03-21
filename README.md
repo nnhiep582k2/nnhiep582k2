@@ -1,4 +1,4 @@
-## 👋 Hi, My name is Hiep. I am 21. I live in Hanoi. I am a Fullstack Web Developer.
+## 👋 Hi, My name is Hiep. I am 21. I live in Hanoi.
 ## 🤝 Connect with me:
 
 [<img align="left" alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/nnhiep582)
