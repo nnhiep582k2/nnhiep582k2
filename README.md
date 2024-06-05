@@ -18,17 +18,19 @@
 <div><img align="left" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Pinialogo.svg/1200px-Pinialogo.svg.png" /></div>
 <div><img align="left" height="30" width="30" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/redux-icon.png" /></div>
 <div><img align="left" height="30" width="30" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" /></div>
+<div><img align="left" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Java-logo.png" /></div>
 <div><img align="left" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" /></div>
+<div><img align="left" height="30" width="30" src="https://static-00.iconduck.com/assets.00/spring-icon-256x256-2efvkvky.png" /></div>
 <div><img align="left" height="30" width="30" src="https://codeopinion.com/wp-content/uploads/2017/10/Bitmap-MEDIUM_Entity-Framework-Core-Logo_2colors_Square_Boxed_RGB.png" /></div>
 <div><img align="left" height="30" width="30" src="https://images.ctfassets.net/ee3ypdtck0rk/3tLmcHuiDfOr14Lntlm8lG/edead3af754857409d690681100690e3/icon-tech-signalR.png?w=256&h=256&q=50&fm=png" /></div>
 <div><img align="left" height="30" width="30" src="https://raw.githubusercontent.com/nnhiep582k2/nnhiep582k2/main/logo.png" /></div>
-<div><img align="left" height="30" width="30" src="https://nuxt.com/assets/design-kit/icon-green.svg" /></div>
-<div><img align="left" height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8lp0rYCgNyrTHrV4v3yKrv6L2J0SnR_r_kHnX97uRIw&s" /></div>
 </div>
 
 <br />
 <br />
 <div>
+<div><img align="left" height="30" width="30" src="https://nuxt.com/assets/design-kit/icon-green.svg" /></div>
+<div><img align="left" height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8lp0rYCgNyrTHrV4v3yKrv6L2J0SnR_r_kHnX97uRIw&s" /></div>
 <div><img align="left" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /></div>
 <div><img align="left" height="30" width="30" src="https://i.pinimg.com/originals/3e/55/df/3e55dfb0980956b42cac768b740cdad6.png" /></div>
 <div><img align="left" height="30" width="30" src="https://seeklogo.com/images/M/mongodb-logo-D13D67C930-seeklogo.com.png" /></div>
@@ -43,13 +45,13 @@
 <div><img align="left" height="30" width="30" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" /></div>
 <div><img align="left" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png" /></div>
 <div><img align="left" height="30" width="30" src="https://taiwebs.com/upload/icons/dbforge-studio-for-postgresql-enterprise-icon.png" /></div>
-<div><img align="left" height="30" width="30" src="https://cs.hofstra.edu/docs/images/software/ssms.png" /></div>
-<div><img align="left" height="30" width="30" src="https://openexchange.intersystems.com/mp/img/packages/1071/tqd1lx7xar1wlw7l4wjrxyea.png" /></div>
 </div>
 
 <br />
 <br />
 <div>
+<div><img align="left" height="30" width="30" src="https://cs.hofstra.edu/docs/images/software/ssms.png" /></div>
+<div><img align="left" height="30" width="30" src="https://openexchange.intersystems.com/mp/img/packages/1071/tqd1lx7xar1wlw7l4wjrxyea.png" /></div>
 <div><img align="left" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Windows_Terminal_Logo.png" /></div>
 <div><img align="left" height="30" width="30" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" /></div>
 <div><img align="left" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" /></div>
