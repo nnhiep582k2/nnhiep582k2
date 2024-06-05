@@ -44,12 +44,13 @@
 <div><img align="left" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png" /></div>
 <div><img align="left" height="30" width="30" src="https://taiwebs.com/upload/icons/dbforge-studio-for-postgresql-enterprise-icon.png" /></div>
 <div><img align="left" height="30" width="30" src="https://cs.hofstra.edu/docs/images/software/ssms.png" /></div>
-<div><img align="left" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Windows_Terminal_Logo.png" /></div>
+<div><img align="left" height="30" width="30" src="https://openexchange.intersystems.com/mp/img/packages/1071/tqd1lx7xar1wlw7l4wjrxyea.png" /></div>
 </div>
 
 <br />
 <br />
 <div>
+<div><img align="left" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Windows_Terminal_Logo.png" /></div>
 <div><img align="left" height="30" width="30" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" /></div>
 <div><img align="left" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" /></div>
 <div><img align="left" height="30" width="30" src="https://avatars.githubusercontent.com/u/18133?s=280&v=4" /></div>
