@@ -44,12 +44,13 @@
 <div><img align="left" height="30" width="30" src="https://assets.vercel.com/image/upload/front/favicon/vercel/152x152.png" /></div>
 <div><img align="left" height="30" width="30" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" /></div>
 <div><img align="left" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png" /></div>
-<div><img align="left" height="30" width="30" src="https://taiwebs.com/upload/icons/dbforge-studio-for-postgresql-enterprise-icon.png" /></div>
+<div><img align="left" height="30" width="30" src="https://seeklogo.com/images/J/jetbrains-intellij-idea-logo-CA1D5DC51F-seeklogo.com.png" /></div>
 </div>
 
 <br />
 <br />
 <div>
+<div><img align="left" height="30" width="30" src="https://taiwebs.com/upload/icons/dbforge-studio-for-postgresql-enterprise-icon.png" /></div>
 <div><img align="left" height="30" width="30" src="https://cs.hofstra.edu/docs/images/software/ssms.png" /></div>
 <div><img align="left" height="30" width="30" src="https://openexchange.intersystems.com/mp/img/packages/1071/tqd1lx7xar1wlw7l4wjrxyea.png" /></div>
 <div><img align="left" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Windows_Terminal_Logo.png" /></div>
