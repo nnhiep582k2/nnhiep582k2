@@ -18,7 +18,7 @@
 <div><img align="left" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Pinialogo.svg/1200px-Pinialogo.svg.png" /></div>
 <div><img align="left" height="30" width="30" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/redux-icon.png" /></div>
 <div><img align="left" height="30" width="30" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" /></div>
-<div><img align="left" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Java-logo.png" /></div>
+<div><img align="left" height="30" width="30" src="https://i2.wp.com/cdn.iconscout.com/icon/free/png-256/java-43-569305.png" /></div>
 <div><img align="left" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" /></div>
 <div><img align="left" height="30" width="30" src="https://static-00.iconduck.com/assets.00/spring-icon-256x256-2efvkvky.png" /></div>
 <div><img align="left" height="30" width="30" src="https://codeopinion.com/wp-content/uploads/2017/10/Bitmap-MEDIUM_Entity-Framework-Core-Logo_2colors_Square_Boxed_RGB.png" /></div>
