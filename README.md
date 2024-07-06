@@ -35,6 +35,7 @@
 <div><img align="left" height="30" width="30" src="https://i.pinimg.com/originals/3e/55/df/3e55dfb0980956b42cac768b740cdad6.png" /></div>
 <div><img align="left" height="30" width="30" src="https://5.imimg.com/data5/SELLER/Default/2022/6/OG/KZ/GC/154593131/oracle-database-licenses.png" /></div>
 <div><img align="left" height="30" width="30" src="https://seeklogo.com/images/M/mongodb-logo-D13D67C930-seeklogo.com.png" /></div>
+<div><img align="left" height="30" width="30" src="https://seeklogo.com/images/R/redis-logo-E403D4DD6A-seeklogo.com.png" /></div>
 <div><img align="left" height="30" width="30" src="https://i.pinimg.com/originals/39/b2/e4/39b2e4ad77c23a2c11e5950a7dfa2aec.png" /></div>
 <div><img align="left" height="30" width="30" src="https://noyantis.com/wp-content/uploads/2023/08/DevExtreme-2.png" /></div>
 <div><img align="left" height="30" width="30" src="https://avatars.githubusercontent.com/u/68583457?v=4&s=400" /></div>
@@ -44,12 +45,12 @@
 <div><img align="left" height="30" width="30" src="https://yt3.googleusercontent.com/AC0Ia-7Akfvhnkwy9s4kx2Qt3XFXFYe95SfmEba4pK46t22K0tAnS40R8AAa7_YPkSeu6t5TxA=s900-c-k-c0x00ffffff-no-rj" /></div>
 <div><img align="left" height="30" width="30" src="https://assets.vercel.com/image/upload/front/favicon/vercel/152x152.png" /></div>
 <div><img align="left" height="30" width="30" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" /></div>
-<div><img align="left" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png" /></div>
 </div>
 
 <br />
 <br />
 <div>
+<div><img align="left" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png" /></div>
 <div><img align="left" height="30" width="30" src="https://seeklogo.com/images/J/jetbrains-intellij-idea-logo-CA1D5DC51F-seeklogo.com.png" /></div>
 <div><img align="left" height="30" width="30" src="https://taiwebs.com/upload/icons/dbforge-studio-for-postgresql-enterprise-icon.png" /></div>
 <div><img align="left" height="30" width="30" src="https://cs.hofstra.edu/docs/images/software/ssms.png" /></div>
