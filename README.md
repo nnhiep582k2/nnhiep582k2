@@ -32,8 +32,8 @@
 <div><img align="left" height="30" width="30" src="https://nuxt.com/assets/design-kit/icon-green.svg" /></div>
 <div><img align="left" height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8lp0rYCgNyrTHrV4v3yKrv6L2J0SnR_r_kHnX97uRIw&s" /></div>
 <div><img align="left" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /></div>
-<div><img align="left" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" /></div>
 <div><img align="left" height="30" width="30" src="https://i.pinimg.com/originals/3e/55/df/3e55dfb0980956b42cac768b740cdad6.png" /></div>
+<div><img align="left" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" /></div>
 <div><img align="left" height="30" width="30" src="https://5.imimg.com/data5/SELLER/Default/2022/6/OG/KZ/GC/154593131/oracle-database-licenses.png" /></div>
 <div><img align="left" height="30" width="30" src="https://seeklogo.com/images/M/mongodb-logo-D13D67C930-seeklogo.com.png" /></div>
 <div><img align="left" height="30" width="30" src="https://seeklogo.com/images/R/redis-logo-E403D4DD6A-seeklogo.com.png" /></div>
@@ -43,13 +43,18 @@
 <div><img align="left" height="30" width="30" src="https://static-00.iconduck.com/assets.00/material-ui-icon-2048x1626-on580ia9.png" /></div>
 <div><img align="left" height="30" width="30" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,w_500,h_500,g_center/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/events/Tailwind_CSS_Logo.svg_GkNDLAs.png" /></div>
 <div><img align="left" height="30" width="30" src="https://avatars.githubusercontent.com/u/76870092?s=280&v=4" /></div>
-<div><img align="left" height="30" width="30" src="https://yt3.googleusercontent.com/AC0Ia-7Akfvhnkwy9s4kx2Qt3XFXFYe95SfmEba4pK46t22K0tAnS40R8AAa7_YPkSeu6t5TxA=s900-c-k-c0x00ffffff-no-rj" /></div>
-<div><img align="left" height="30" width="30" src="https://assets.vercel.com/image/upload/front/favicon/vercel/152x152.png" /></div>
+<div><img align="left" height="30" width="30" src="https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo.png" /></div>
+<div><img align="left" height="30" width="30" src="https://cdn.icon-icons.com/icons2/195/PNG/256/VirtualBox_23525.png" /></div>
 </div>
 
 <br />
 <br />
 <div>
+<div><img align="left" height="30" width="30" src="https://seeklogo.com/images/V/vagrant-logo-B214F47636-seeklogo.com.png" /></div>
+<div><img align="left" height="30" width="30" src="https://yt3.googleusercontent.com/AC0Ia-7Akfvhnkwy9s4kx2Qt3XFXFYe95SfmEba4pK46t22K0tAnS40R8AAa7_YPkSeu6t5TxA=s900-c-k-c0x00ffffff-no-rj" /></div>
+<div><img align="left" height="30" width="30" src="https://assets.vercel.com/image/upload/front/favicon/vercel/152x152.png" /></div>
+<div><img align="left" height="30" width="30" src="https://static-00.iconduck.com/assets.00/godaddy-v2-icon-2048x2048-fnx09smt.png" /></div>
+<div><img align="left" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Chocolatey_icon.png/480px-Chocolatey_icon.png" /></div>
 <div><img align="left" height="30" width="30" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" /></div>
 <div><img align="left" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png" /></div>
 <div><img align="left" height="30" width="30" src="https://seeklogo.com/images/J/jetbrains-intellij-idea-logo-CA1D5DC51F-seeklogo.com.png" /></div>
@@ -61,6 +66,11 @@
 <div><img align="left" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" /></div>
 <div><img align="left" height="30" width="30" src="https://avatars.githubusercontent.com/u/18133?s=280&v=4" /></div>
 <div><img align="left" height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR27kaHyBN4-iwj7H4pMmnE7kaC720Y-PYzKQ&usqp=CAU" /></div>
+</div>
+
+<br />
+<br />
+<div>
 <div><img align="left" height="30" width="30" src="https://seeklogo.com/images/B/bitbucket-logo-D072214725-seeklogo.com.png" /></div>
 <div><img align="left" height="30" width="30" src="https://static-00.iconduck.com/assets.00/gitlab-icon-2048x1885-1o0cwkbx.png" /></div>
 <div><img align="left" height="30" width="30" src="https://images.ctfassets.net/wl95ljfippl8/227taekzJ9UfuM9knHRa7B/29b6f61d6fc9cd1e2c3fdf409dca8b0b/Vector.webp" /></div>
