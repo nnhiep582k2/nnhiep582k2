@@ -53,7 +53,7 @@
 <div><img align="left" height="30" width="30" src="https://seeklogo.com/images/V/vagrant-logo-B214F47636-seeklogo.com.png" /></div>
 <div><img align="left" height="30" width="30" src="https://yt3.googleusercontent.com/AC0Ia-7Akfvhnkwy9s4kx2Qt3XFXFYe95SfmEba4pK46t22K0tAnS40R8AAa7_YPkSeu6t5TxA=s900-c-k-c0x00ffffff-no-rj" /></div>
 <div><img align="left" height="30" width="30" src="https://assets.vercel.com/image/upload/front/favicon/vercel/152x152.png" /></div>
-<div><img align="left" height="30" width="30" src="https://static-00.iconduck.com/assets.00/godaddy-v2-icon-2048x2048-fnx09smt.png" /></div>
+<div><img align="left" height="30" width="30" src="https://lightwidget.com/wp-content/uploads/godaddy-logo.png" /></div>
 <div><img align="left" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Chocolatey_icon.png/480px-Chocolatey_icon.png" /></div>
 <div><img align="left" height="30" width="30" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" /></div>
 <div><img align="left" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png" /></div>
