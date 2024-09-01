@@ -51,6 +51,7 @@
 <br />
 <div>
 <div><img align="left" height="30" width="30" src="https://seeklogo.com/images/V/vagrant-logo-B214F47636-seeklogo.com.png" /></div>
+<div><img align="left" height="30" width="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" /></div>
 <div><img align="left" height="30" width="30" src="https://yt3.googleusercontent.com/AC0Ia-7Akfvhnkwy9s4kx2Qt3XFXFYe95SfmEba4pK46t22K0tAnS40R8AAa7_YPkSeu6t5TxA=s900-c-k-c0x00ffffff-no-rj" /></div>
 <div><img align="left" height="30" width="30" src="https://assets.vercel.com/image/upload/front/favicon/vercel/152x152.png" /></div>
 <div><img align="left" height="30" width="30" src="https://lightwidget.com/wp-content/uploads/godaddy-logo.png" /></div>
@@ -65,12 +66,12 @@
 <div><img align="left" height="30" width="30" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" /></div>
 <div><img align="left" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" /></div>
 <div><img align="left" height="30" width="30" src="https://avatars.githubusercontent.com/u/18133?s=280&v=4" /></div>
-<div><img align="left" height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR27kaHyBN4-iwj7H4pMmnE7kaC720Y-PYzKQ&usqp=CAU" /></div>
 </div>
 
 <br />
 <br />
 <div>
+<div><img align="left" height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR27kaHyBN4-iwj7H4pMmnE7kaC720Y-PYzKQ&usqp=CAU" /></div>
 <div><img align="left" height="30" width="30" src="https://seeklogo.com/images/B/bitbucket-logo-D072214725-seeklogo.com.png" /></div>
 <div><img align="left" height="30" width="30" src="https://static-00.iconduck.com/assets.00/gitlab-icon-2048x1885-1o0cwkbx.png" /></div>
 <div><img align="left" height="30" width="30" src="https://images.ctfassets.net/wl95ljfippl8/227taekzJ9UfuM9knHRa7B/29b6f61d6fc9cd1e2c3fdf409dca8b0b/Vector.webp" /></div>
