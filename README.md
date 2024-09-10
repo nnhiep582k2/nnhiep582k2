@@ -22,12 +22,11 @@
 <img align="left" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" />
 <img align="left" height="30" width="30" src="https://static-00.iconduck.com/assets.00/spring-icon-256x256-2efvkvky.png" />
 <img align="left" height="30" width="30" src="https://codeopinion.com/wp-content/uploads/2017/10/Bitmap-MEDIUM_Entity-Framework-Core-Logo_2colors_Square_Boxed_RGB.png" />
-<img align="left" height="30" width="30" src="https://images.ctfassets.net/ee3ypdtck0rk/3tLmcHuiDfOr14Lntlm8lG/edead3af754857409d690681100690e3/icon-tech-signalR.png?w=256&h=256&q=50&fm=png" />
 <img align="left" height="30" width="30" src="https://raw.githubusercontent.com/nnhiep582k2/nnhiep582k2/main/logo.png" />
 </div>
 
-<br />
 <div>
+<img align="left" height="30" width="30" src="https://images.ctfassets.net/ee3ypdtck0rk/3tLmcHuiDfOr14Lntlm8lG/edead3af754857409d690681100690e3/icon-tech-signalR.png?w=256&h=256&q=50&fm=png" />
 <img align="left" height="30" width="30" src="https://nuxt.com/assets/design-kit/icon-green.svg" />
 <img align="left" height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8lp0rYCgNyrTHrV4v3yKrv6L2J0SnR_r_kHnX97uRIw&s" />
 <img align="left" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
@@ -42,12 +41,11 @@
 <img align="left" height="30" width="30" src="https://static-00.iconduck.com/assets.00/material-ui-icon-2048x1626-on580ia9.png" />
 <img align="left" height="30" width="30" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,w_500,h_500,g_center/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/events/Tailwind_CSS_Logo.svg_GkNDLAs.png" />
 <img align="left" height="30" width="30" src="https://avatars.githubusercontent.com/u/76870092?s=280&v=4" />
-<img align="left" height="30" width="30" src="https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo.png" />
-<img align="left" height="30" width="30" src="https://cdn.icon-icons.com/icons2/195/PNG/256/VirtualBox_23525.png" />
 </div>
 
-<br />
 <div>
+<img align="left" height="30" width="30" src="https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo.png" />
+<img align="left" height="30" width="30" src="https://cdn.icon-icons.com/icons2/195/PNG/256/VirtualBox_23525.png" />
 <img align="left" height="30" width="30" src="https://seeklogo.com/images/V/vagrant-logo-B214F47636-seeklogo.com.png" />
 <img align="left" height="30" width="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" />
 <img align="left" height="30" width="30" src="https://yt3.googleusercontent.com/AC0Ia-7Akfvhnkwy9s4kx2Qt3XFXFYe95SfmEba4pK46t22K0tAnS40R8AAa7_YPkSeu6t5TxA=s900-c-k-c0x00ffffff-no-rj" />
@@ -61,13 +59,12 @@
 <img align="left" height="30" width="30" src="https://cs.hofstra.edu/docs/images/software/ssms.png" />
 <img align="left" height="30" width="30" src="https://openexchange.intersystems.com/mp/img/packages/1071/tqd1lx7xar1wlw7l4wjrxyea.png" />
 <img align="left" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Windows_Terminal_Logo.png" />
+</div>
+
+<div>
 <img align="left" height="30" width="30" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" />
 <img align="left" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
 <img align="left" height="30" width="30" src="https://avatars.githubusercontent.com/u/18133?s=280&v=4" />
-</div>
-
-<br />
-<div>
 <img align="left" height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR27kaHyBN4-iwj7H4pMmnE7kaC720Y-PYzKQ&usqp=CAU" />
 <img align="left" height="30" width="30" src="https://seeklogo.com/images/B/bitbucket-logo-D072214725-seeklogo.com.png" />
 <img align="left" height="30" width="30" src="https://static-00.iconduck.com/assets.00/gitlab-icon-2048x1885-1o0cwkbx.png" />
