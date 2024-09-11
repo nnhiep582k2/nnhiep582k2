@@ -79,11 +79,8 @@
 <br />
 <br />
 
-<div>
 
 ### 💻 Other
-  
-</div>
 
 <div>
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nnhiep582k2&show_icons=true&theme=radical" />
