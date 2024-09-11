@@ -10,7 +10,7 @@
 
 ---
 ### 👨‍💻 Languages and Tools
-<div style="height: 36px">
+<div style="display: flex; flex-wrap: wrap; align-items: center;">
 <img align="left" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
@@ -28,7 +28,7 @@
 <img align="left" height="30" width="30" src="https://raw.githubusercontent.com/nnhiep582k2/nnhiep582k2/main/logo.png" />
 </div>
 
-<div style="height: 36px">
+<div style="display: flex; flex-wrap: wrap; align-items: center;">
 <img align="left" height="30" width="30" src="https://images.ctfassets.net/ee3ypdtck0rk/3tLmcHuiDfOr14Lntlm8lG/edead3af754857409d690681100690e3/icon-tech-signalR.png?w=256&h=256&q=50&fm=png" />
 <img align="left" height="30" width="30" src="https://nuxt.com/assets/design-kit/icon-green.svg" />
 <img align="left" height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8lp0rYCgNyrTHrV4v3yKrv6L2J0SnR_r_kHnX97uRIw&s" />
@@ -46,7 +46,7 @@
 <img align="left" height="30" width="30" src="https://avatars.githubusercontent.com/u/76870092?s=280&v=4" />
 </div>
 
-<div style="height: 36px">
+<div style="display: flex; flex-wrap: wrap; align-items: center;">
 <img align="left" height="30" width="30" src="https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo.png" />
 <img align="left" height="30" width="30" src="https://cdn.icon-icons.com/icons2/195/PNG/256/VirtualBox_23525.png" />
 <img align="left" height="30" width="30" src="https://seeklogo.com/images/V/vagrant-logo-B214F47636-seeklogo.com.png" />
@@ -64,7 +64,7 @@
 <img align="left" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Windows_Terminal_Logo.png" />
 </div>
 
-<div style="height: 36px">
+<div style="display: flex; flex-wrap: wrap; align-items: center;">
 <img align="left" height="30" width="30" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" />
 <img align="left" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
 <img align="left" height="30" width="30" src="https://avatars.githubusercontent.com/u/18133?s=280&v=4" />
