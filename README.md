@@ -72,14 +72,20 @@
 <img align="left" height="30" width="30" src="https://pbs.twimg.com/profile_images/1136901164039991297/-Vt-vAYQ_400x400.png" />
 <img align="left" height="30" width="30" src="https://w7.pngwing.com/pngs/87/883/png-transparent-markdown-logos-and-brands-line-filled-icon-thumbnail.png" />
 </div>
+
+<br />
+<br />
+<br />
+<br />
 <br />
 
 <div>
-  
-### 💻 Other
 
+### 💻 Other
+  
 </div>
-<p>
+
+<div>
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nnhiep582k2&show_icons=true&theme=radical" />
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nnhiep582k2&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact&langs_count=11&card_width=420" />
-</p>
+</div>
