@@ -47,6 +47,7 @@
 <img height="30" width="30" src="https://cdn.icon-icons.com/icons2/195/PNG/256/VirtualBox_23525.png" />
 <img height="30" width="30" src="https://seeklogo.com/images/V/vagrant-logo-B214F47636-seeklogo.com.png" />
 <img height="30" width="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" />
+<img height="30" width="30" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/jenkins-icon.png" />
 <img height="30" width="30" src="https://yt3.googleusercontent.com/AC0Ia-7Akfvhnkwy9s4kx2Qt3XFXFYe95SfmEba4pK46t22K0tAnS40R8AAa7_YPkSeu6t5TxA=s900-c-k-c0x00ffffff-no-rj" />
 <img height="30" width="30" src="https://assets.vercel.com/image/upload/front/favicon/vercel/152x152.png" />
 <img height="30" width="30" src="https://lightwidget.com/wp-content/uploads/godaddy-logo.png" />
@@ -57,10 +58,10 @@
 <img height="30" width="30" src="https://taiwebs.com/upload/icons/dbforge-studio-for-postgresql-enterprise-icon.png" />
 <img height="30" width="30" src="https://cs.hofstra.edu/docs/images/software/ssms.png" />
 <img height="30" width="30" src="https://openexchange.intersystems.com/mp/img/packages/1071/tqd1lx7xar1wlw7l4wjrxyea.png" />
-<img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Windows_Terminal_Logo.png" />
 </div>
 
 <div style="display: flex; flex-wrap: wrap; align-items: center;">
+<img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Windows_Terminal_Logo.png" />
 <img height="30" width="30" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" />
 <img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
 <img height="30" width="30" src="https://avatars.githubusercontent.com/u/18133?s=280&v=4" />
