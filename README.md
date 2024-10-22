@@ -20,11 +20,12 @@
 <img height="30" width="30" src="https://i2.wp.com/cdn.iconscout.com/icon/free/png-256/java-43-569305.png" />
 <img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" />
 <img height="30" width="30" src="https://static-00.iconduck.com/assets.00/spring-icon-256x256-2efvkvky.png" />
+<img height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-256/free-python-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-5-pack-logos-icons-2945099.png?f=webp" />
 <img height="30" width="30" src="https://codeopinion.com/wp-content/uploads/2017/10/Bitmap-MEDIUM_Entity-Framework-Core-Logo_2colors_Square_Boxed_RGB.png" />
-<img height="30" width="30" src="https://raw.githubusercontent.com/nnhiep582k2/nnhiep582k2/main/logo.png" />
 </div>
 
 <div style="display: flex; flex-wrap: wrap; align-items: center;">
+<img height="30" width="30" src="https://raw.githubusercontent.com/nnhiep582k2/nnhiep582k2/main/logo.png" />
 <img height="30" width="30" src="https://images.ctfassets.net/ee3ypdtck0rk/3tLmcHuiDfOr14Lntlm8lG/edead3af754857409d690681100690e3/icon-tech-signalR.png?w=256&h=256&q=50&fm=png" />
 <img height="30" width="30" src="https://nuxt.com/assets/design-kit/icon-green.svg" />
 <img height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8lp0rYCgNyrTHrV4v3yKrv6L2J0SnR_r_kHnX97uRIw&s" />
@@ -39,10 +40,10 @@
 <img height="30" width="30" src="https://avatars.githubusercontent.com/u/68583457?v=4&s=400" />
 <img height="30" width="30" src="https://static-00.iconduck.com/assets.00/material-ui-icon-2048x1626-on580ia9.png" />
 <img height="30" width="30" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,w_500,h_500,g_center/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/events/Tailwind_CSS_Logo.svg_GkNDLAs.png" />
-<img height="30" width="30" src="https://avatars.githubusercontent.com/u/76870092?s=280&v=4" />
 </div>
 
 <div style="display: flex; flex-wrap: wrap; align-items: center;">
+<img height="30" width="30" src="https://avatars.githubusercontent.com/u/76870092?s=280&v=4" />
 <img height="30" width="30" src="https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo.png" />
 <img height="30" width="30" src="https://cdn.icon-icons.com/icons2/195/PNG/256/VirtualBox_23525.png" />
 <img height="30" width="30" src="https://seeklogo.com/images/V/vagrant-logo-B214F47636-seeklogo.com.png" />
@@ -57,10 +58,10 @@
 <img height="30" width="30" src="https://seeklogo.com/images/J/jetbrains-intellij-idea-logo-CA1D5DC51F-seeklogo.com.png" />
 <img height="30" width="30" src="https://taiwebs.com/upload/icons/dbforge-studio-for-postgresql-enterprise-icon.png" />
 <img height="30" width="30" src="https://cs.hofstra.edu/docs/images/software/ssms.png" />
-<img height="30" width="30" src="https://openexchange.intersystems.com/mp/img/packages/1071/tqd1lx7xar1wlw7l4wjrxyea.png" />
 </div>
 
 <div style="display: flex; flex-wrap: wrap; align-items: center;">
+<img height="30" width="30" src="https://openexchange.intersystems.com/mp/img/packages/1071/tqd1lx7xar1wlw7l4wjrxyea.png" />
 <img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Windows_Terminal_Logo.png" />
 <img height="30" width="30" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" />
 <img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
