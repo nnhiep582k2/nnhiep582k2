@@ -68,7 +68,7 @@
 <img height="30" width="30" src="https://avatars.githubusercontent.com/u/18133?s=280&v=4" />
 <img height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR27kaHyBN4-iwj7H4pMmnE7kaC720Y-PYzKQ&usqp=CAU" />
 <img height="30" width="30" src="https://seeklogo.com/images/B/bitbucket-logo-D072214725-seeklogo.com.png" />
-<img height="30" width="30" src="https://static-00.iconduck.com/assets.00/gitlab-icon-2048x1885-1o0cwkbx.png" />
+<img height="30" width="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-512.png" />
 <img height="30" width="30" src="https://images.ctfassets.net/wl95ljfippl8/227taekzJ9UfuM9knHRa7B/29b6f61d6fc9cd1e2c3fdf409dca8b0b/Vector.webp" />
 <img height="30" width="30" src="https://pbs.twimg.com/profile_images/1136901164039991297/-Vt-vAYQ_400x400.png" />
 <img height="30" width="30" src="https://w7.pngwing.com/pngs/87/883/png-transparent-markdown-logos-and-brands-line-filled-icon-thumbnail.png" />
