@@ -46,7 +46,7 @@
 <img height="30" width="30" src="https://avatars.githubusercontent.com/u/76870092?s=280&v=4" />
 <img height="30" width="30" src="https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo.png" />
 <img height="30" width="30" src="https://cdn.icon-icons.com/icons2/195/PNG/256/VirtualBox_23525.png" />
-<img height="30" width="30" src="https://seeklogo.com/images/V/vagrant-logo-B214F47636-seeklogo.com.png" />
+<img height="30" width="30" src="https://whatthelogo.com/storage/logos/vagrant-274612.png" />
 <img height="30" width="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" />
 <img height="30" width="30" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/jenkins-icon.png" />
 <img height="30" width="30" src="https://yt3.googleusercontent.com/AC0Ia-7Akfvhnkwy9s4kx2Qt3XFXFYe95SfmEba4pK46t22K0tAnS40R8AAa7_YPkSeu6t5TxA=s900-c-k-c0x00ffffff-no-rj" />
@@ -55,7 +55,7 @@
 <img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Chocolatey_icon.png/480px-Chocolatey_icon.png" />
 <img height="30" width="30" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" />
 <img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png" />
-<img height="30" width="30" src="https://seeklogo.com/images/J/jetbrains-intellij-idea-logo-CA1D5DC51F-seeklogo.com.png" />
+<img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/800px-IntelliJ_IDEA_Icon.svg.png" />
 <img height="30" width="30" src="https://taiwebs.com/upload/icons/dbforge-studio-for-postgresql-enterprise-icon.png" />
 <img height="30" width="30" src="https://cs.hofstra.edu/docs/images/software/ssms.png" />
 </div>
@@ -68,7 +68,7 @@
 <img height="30" width="30" src="https://iconape.com/wp-content/files/ub/352181/svg/yarn-seeklogo.com.svg" />
 <img height="30" width="30" src="https://avatars.githubusercontent.com/u/18133?s=280&v=4" />
 <img height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR27kaHyBN4-iwj7H4pMmnE7kaC720Y-PYzKQ&usqp=CAU" />
-<img height="30" width="30" src="https://seeklogo.com/images/B/bitbucket-logo-D072214725-seeklogo.com.png" />
+<img height="30" width="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/44_Bitbucket_logo_logos-512.png" />
 <img height="30" width="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-512.png" />
 <img height="30" width="30" src="https://images.ctfassets.net/wl95ljfippl8/227taekzJ9UfuM9knHRa7B/29b6f61d6fc9cd1e2c3fdf409dca8b0b/Vector.webp" />
 <img height="30" width="30" src="https://pbs.twimg.com/profile_images/1136901164039991297/-Vt-vAYQ_400x400.png" />
