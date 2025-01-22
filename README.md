@@ -16,7 +16,7 @@
 <img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Pinialogo.svg/1200px-Pinialogo.svg.png" />
 <img height="30" width="30" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/redux-icon.png" />
-<img height="30" width="30" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />
+<img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png" />
 <img height="30" width="30" src="https://i2.wp.com/cdn.iconscout.com/icon/free/png-256/java-43-569305.png" />
 <img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" />
 <img height="30" width="30" src="https://static-00.iconduck.com/assets.00/spring-icon-256x256-2efvkvky.png" />
@@ -33,8 +33,8 @@
 <img height="30" width="30" src="https://i.pinimg.com/originals/3e/55/df/3e55dfb0980956b42cac768b740cdad6.png" />
 <img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" />
 <img height="30" width="30" src="https://5.imimg.com/data5/SELLER/Default/2022/6/OG/KZ/GC/154593131/oracle-database-licenses.png" />
-<img height="30" width="30" src="https://seeklogo.com/images/M/mongodb-logo-D13D67C930-seeklogo.com.png" />
-<img height="30" width="30" src="https://seeklogo.com/images/R/redis-logo-E403D4DD6A-seeklogo.com.png" />
+<img height="30" width="30" src="https://cdnlogo.com/logos/m/30/mongodb-icon.svg" />
+<img height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-256/free-redis-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-freebies-pack-logos-icons-1175103.png?f=webp&w=256" />
 <img height="30" width="30" src="https://i.pinimg.com/originals/39/b2/e4/39b2e4ad77c23a2c11e5950a7dfa2aec.png" />
 <img height="30" width="30" src="https://noyantis.com/wp-content/uploads/2023/08/DevExtreme-2.png" />
 <img height="30" width="30" src="https://avatars.githubusercontent.com/u/68583457?v=4&s=400" />
