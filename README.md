@@ -45,7 +45,7 @@
 <div style="display: flex; flex-wrap: wrap; align-items: center;">
 <img height="30" width="30" src="https://avatars.githubusercontent.com/u/76870092?s=280&v=4" />
 <img height="30" width="30" src="https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo.png" />
-<img height="30" width="30" src="https://cdn.icon-icons.com/icons2/195/PNG/256/VirtualBox_23525.png" />
+<img height="30" width="30" src="https://img.icons8.com/fluent/512/virtualbox.png" />
 <img height="30" width="30" src="https://whatthelogo.com/storage/logos/vagrant-274612.png" />
 <img height="30" width="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" />
 <img height="30" width="30" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/jenkins-icon.png" />
