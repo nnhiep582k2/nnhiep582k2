@@ -49,7 +49,7 @@
 <img height="30" width="30" src="https://whatthelogo.com/storage/logos/vagrant-274612.png" />
 <img height="30" width="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" />
 <img height="30" width="30" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/jenkins-icon.png" />
-<img height="30" width="30" src="https://yt3.googleusercontent.com/AC0Ia-7Akfvhnkwy9s4kx2Qt3XFXFYe95SfmEba4pK46t22K0tAnS40R8AAa7_YPkSeu6t5TxA=s900-c-k-c0x00ffffff-no-rj" />
+<img height="30" width="30" src="https://cdn.creazilla.com/icons/3269501/ansible-icon-size_256.png" />
 <img height="30" width="30" src="https://assets.vercel.com/image/upload/front/favicon/vercel/152x152.png" />
 <img height="30" width="30" src="https://lightwidget.com/wp-content/uploads/godaddy-logo.png" />
 <img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Chocolatey_icon.png/480px-Chocolatey_icon.png" />
